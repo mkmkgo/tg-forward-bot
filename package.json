@@ -1,0 +1,13 @@
+{
+  "name": "telegram-forward-bot",
+  "version": "1.0.0",
+  "description": "Telegram多群消息自动转发机器人（Vercel免费部署）",
+  "main": "api/index.js",
+  "scripts": {
+    "deploy": "vercel deploy --prod"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {}
+}
